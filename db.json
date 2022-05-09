@@ -1,0 +1,36 @@
+{
+    "name":["Al-Razi Pharmacy"] ,
+    "location": [
+        {
+            "lang": 32.56827368084704,
+            "lat": 35.873404606907336
+        }
+    ],
+    "drugs": [
+        {
+            "id": 0,
+            "name": "Acetaminophen",
+            "description": "pain reliever and fever reducer"
+        },
+        {
+            "id": 1,
+            "name": "Acetylcysteine",
+            "description": "used to help prevent or lessen liver damage"
+        },
+        {
+            "id": 2,
+            "name": "Adderall",
+            "description": "used to treat attention deficit hyperactivity disorder (ADHD) and narcolepsy."
+        },
+        {
+            "id": 3,
+            "name": "Bactroban",
+            "description": "antibiotic that prevents bacteria from growing on your skin."
+        },
+        {
+            "id": 4,
+            "name": "Banzel",
+            "description": "a seizure medication, also called an anti-epileptic or anticonvulsant."
+        }
+    ]
+}
