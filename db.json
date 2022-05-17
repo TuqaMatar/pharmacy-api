@@ -1,6 +1,5 @@
 {
 
-
     "name":["Al-Razi Pharmacy"] ,
     "id" :["OucvZSGZI5Y6urDK9koeZOOLrfK2"],
     "location": [
@@ -37,11 +36,6 @@
         },
         {
             "id": 5,
-            "name": "Banzel",
-            "description": "a seizure medication, also called an anti-epileptic or anticonvulsant."
-        },
-        {
-            "id": 6,
             "name": "Banzel",
             "description": "a seizure medication, also called an anti-epileptic or anticonvulsant."
         }
